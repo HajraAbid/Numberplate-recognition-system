@@ -161,3 +161,6 @@ You can add screenshots or example images here showing the detection results.
 Ensure the number plates are clear and properly lit in the input images or videos.
 
 You may need to adjust parameters or pre-processing steps based on regional plate styles.
+
+
+License: This project is licensed under the MIT License. See the LICENSE file for more details.
